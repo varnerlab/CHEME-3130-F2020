@@ -9,8 +9,7 @@ You can download the examples by cloning this repository (from the command line)
 ```
 
 or by cloning the repository using the [GitHub desktop app](https://desktop.github.com). 
-Alternatively, you can download the examples and code as zip file by hitting the green Clone or download button, and selecting the zip option.   
-
+Alternatively, you can download the examples and code as zip file by hitting the green Code button in the upper right corner of the screen, and selecting the zip option.   
 
 ### How do I run the examples?
 The examples presented in the CHEME 3130 lectures are available as [Jupyter notebooks](http://jupyter.org)
