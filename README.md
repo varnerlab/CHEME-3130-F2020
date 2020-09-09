@@ -35,6 +35,7 @@ To install [IJulia](https://github.com/JuliaLang/IJulia.jl), first [start Julia]
 ### How do I view static versions of the example notebooks?
 You can view static versions of the example notebooks using [NBViewer](https://nbviewer.jupyter.org). Just click on an example below, and enjoy!
 
+#### NBViewer links:
 * [Present Future Value example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/Example-Present-Future-Value.ipynb)
 
 * [Net Present Value example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/Example-NetPresentValue-Calculation.ipynb)
