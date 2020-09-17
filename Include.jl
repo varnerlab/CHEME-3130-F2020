@@ -20,6 +20,7 @@ Pkg.activate(_PATH_TO_ROOT);
 # include external packages -
 using Pluto
 using DataFrames
+using CSV
 using Gadfly
 using Cairo
 using Fontconfig
@@ -28,3 +29,4 @@ using Fontconfig
 include("$(_PATH_TO_SRC)/base/Types.jl")
 include("$(_PATH_TO_SRC)/base/Factory.jl")
 include("$(_PATH_TO_SRC)/base/Pressure.jl")
+include("$(_PATH_TO_SRC)/base/Estimate.jl")
