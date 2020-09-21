@@ -32,10 +32,12 @@ To install [IJulia](https://github.com/JuliaLang/IJulia.jl), first [start Julia]
   julia> using Pkg; Pkg.add("IJulia")
 ```
 
-### How do I view static versions of the example notebooks?
+
+
+### How do I view static versions of the example notebooks, quiz or prelim solutions?
 You can view static versions of the example notebooks using [NBViewer](https://nbviewer.jupyter.org). Just click on an example below, and enjoy!
 
-#### NBViewer links:
+#### NBViewer links for the Examples:
 * [Present Future Value example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/Example-Present-Future-Value.ipynb)
 
 * [Net Present Value example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/Example-NetPresentValue-Calculation.ipynb)
@@ -44,5 +46,8 @@ You can view static versions of the example notebooks using [NBViewer](https://n
 
 * [Turbine lost work example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/Example-Turbine.ipynb)
 
+
+#### NBViewer links for the Quiz solutions:
+* [Quiz 1 Fall 2020 solution]()
 
 
