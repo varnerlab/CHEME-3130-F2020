@@ -48,6 +48,6 @@ You can view static versions of the example notebooks using [NBViewer](https://n
 
 
 #### NBViewer links for the Quiz solutions:
-* [Quiz 1 Fall 2020 solution]()
+* [Quiz 1 Fall 2020 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q1/Q1-Soln-CHEME-3130-F20.ipynb)
 
 
