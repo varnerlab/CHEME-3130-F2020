@@ -47,7 +47,11 @@ You can view static versions of the example notebooks using [NBViewer](https://n
 * [Turbine lost work example](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/Example-Turbine.ipynb)
 
 
-#### NBViewer links for the Quiz solutions:
-* [Quiz 1 Fall 2020 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q1/Q1-Soln-CHEME-3130-F20.ipynb)
+#### NBViewer links for the problem set solutions:
+* [PS1 Fall 2020 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q1/Q1-Soln-CHEME-3130-F20.ipynb)
+
+
+#### NBViewer links for optional problem set solutions 
+* [CCornellium Z problem Quiz 7 F19](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/optional_PS/Z-problem-F19/Solution.ipynb)
 
 
