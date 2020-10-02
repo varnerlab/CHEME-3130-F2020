@@ -1,6 +1,7 @@
 # abstract types -
 abstract type CCBEAbstractEquationOfState end
 abstract type CCBEAbstractOperatingPoint end
+abstract type CCBEAbstractWorkingFluid end
 
 # concrete types -
 struct CCBEResult{T}
@@ -34,5 +35,19 @@ mutable struct CCBEOperatingPoint <: CCBEAbstractOperatingPoint
     # constructor -
     function CCBEOperatingPoint(pressure::Union{Float64,Nothing}, volume::Union{Float64,Nothing}, temperature::Union{Float64,Nothing})
         this = new(pressure, volume, temperature)
+    end
+end
+
+mutable struct CCBESingleComponentWorkingFluid <: CCBEAbstractWorkingFluid
+
+    # data -
+    Tc::Float64 # units: K
+    Pc::Float64 # units: MPa
+    Vc::Float64 # units: L
+    ω::Float64  # units: dimensionless
+    R::Float64  # units: MPa L mol^-1 K^-1 
+
+    function CCBESingleComponentWorkingFluid(Tc::Float64, Pc::Float64, Vc::Float64, ω::Float64; R=0.008314)
+        this = new(Tc,Pc,Vc,ω,R)
     end
 end

@@ -5,7 +5,7 @@ end
 
 
 # === PUBLIC METHODS ===================================================================== #
-function estimate(model::CBEVanDerWaalsEquationOfStateModel, experimemtalData::DataFrame, initialPressure::Float64; 
+function estimate(model::CCBEVanDerWaalsEquationOfStateModel, experimemtalData::DataFrame, initialPressure::Float64; 
     predictionKey::Symbol = Symbol("Pressure (MPa)"))
 
 
