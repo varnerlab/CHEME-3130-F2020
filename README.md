@@ -51,6 +51,8 @@ You can view static versions of the example notebooks using [NBViewer](https://n
 * [PS1 Fall 2020 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q1/Q1-Soln-CHEME-3130-F20.ipynb)
 * [PS2 Fall 2020 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q2/Q2-Soln-CHEME-3130-F20.ipynb)
 * [PS3 Fall 2020 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q3/Q3-Soln-CHEME-3130-F20.ipynb)
+* [PS4 Fall 2020 Q1 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q4/PS4-soln-problem-1.ipynb)
+* [PS4 Fall 2020 Q2 solution](https://nbviewer.jupyter.org/github/varnerlab/CHEME-3130-F2020/blob/master/solutions/quiz/Q4/PS4-soln-problem-2.ipynb)
 
 
 #### NBViewer links for optional problem set solutions 
